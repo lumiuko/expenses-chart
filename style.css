@@ -225,7 +225,7 @@ body {
   .chart-item-text {
     margin-top: 0.5rem;
     line-height: 1.25rem;
-    font-size: inherit;
+    font-size: 0.9375rem;
   }
 
   .divider,
