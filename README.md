@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/R373RTZ.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-using-vanilla-js-lZSMvo1py1](https://www.frontendmentor.io/solutions/expenses-chart-component-using-vanilla-js-lZSMvo1py1)
+- Live Site URL: [https://expenses-page.netlify.app/](https://expenses-page.netlify.app/)
 
 ## My process
 
